@@ -1,0 +1,10 @@
+<ObjectLayer>
+ <Layer Name="Brushes" GUID="{793FA54D-1DB5-4D86-9AD2-C6C11C9326CF}" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="1044720">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Brushes" LayerGUID="{793FA54D-1DB5-4D86-9AD2-C6C11C9326CF}" Id="{1EFDCD44-BC20-4772-A50A-69DD69745091}" Name="Sphere_Controller1" HideOrder="0" Pos="588.99994,583,32.999996" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="56575" PrefabGUID="{93573FEF-0FD4-4F6C-8D2C-E862C4A09762}" PrefabName="Character_Controllers.Sphere_Controller"/>
+   <Object Type="AudioAreaAmbience" Layer="Brushes" LayerGUID="{793FA54D-1DB5-4D86-9AD2-C6C11C9326CF}" Id="{E6716974-E090-4918-B2F9-C8ADE01B7FBB}" Name="AudioAreaAmbience1" HideOrder="0" Pos="627.99994,617,31.999998" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" LodRatio="100" ViewDistanceMultiplier="1" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" ObstructionMultiplier="1" EntityClass="AudioAreaAmbience">
+    <Properties bEnabled="1" audioEnvironmentEnvironment="" fEnvironmentDistance="5" audioTriggerPlayTrigger="" audioRTPCRtpc="" fRtpcDistance="5" eiSoundObstructionType="0" audioTriggerStopTrigger=""/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>
